@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Lucas Ferreira",
+    "email": "lucas.ferreira@example.com",
+    "matricula": "2024101",
+    "senha": "123456",
+    "disciplinaId": "disciplina-matematica",
+    "tituloTrabalho": "Lista de Exercicios 3",
+    "descricaoTrabalho": "Entrega da lista de exercicios da semana"
+  },
+  {
+    "nome": "Marina Costa",
+    "email": "marina.costa@example.com",
+    "matricula": "2024102",
+    "senha": "123456",
+    "disciplinaId": "disciplina-programacao-web",
+    "tituloTrabalho": "Pagina HTML basica",
+    "descricaoTrabalho": "Entrega do trabalho de HTML e CSS"
+  }
+]
